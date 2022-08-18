@@ -1,0 +1,78 @@
+.table{
+ margin: auto;
+border: 2px solid black;
+border-width: thick;
+width: 817px;
+padding: 30px 37px;
+background: #B1D3DC;
+box-sizing: border-box;
+clear: both;
+}
+th,td{
+padding: 12px;
+border: 2px solid black;
+outline: 2px dotted blue;
+text-align: center;
+}
+*{
+background-color: #D5D6EA;
+}
+
+#nm{
+margin: 12px 5px;
+padding: 0px 10px;
+
+float: left;
+
+}
+#yr{
+margin: 12px 5px;
+padding: 0px 2px 0px 521px;
+float: right;
+
+
+}
+#sc{
+
+margin: auto 5px;
+padding: 0px 2px 0px 500px;
+float: right;
+clear:right;
+
+}
+#rgd{
+padding: 0px 10px;
+margin: 12px 5px;
+clear: left;
+}
+.name{
+width: 48%;
+border-radius: 2px 2px;
+box-sizing: border-box;
+}
+#head {
+border: 2px solid black;
+border-radius: 2px 2px;
+margin-bottom: 12px;
+box-sizing: border-box; 
+}
+.nt{
+color: red;
+font-weight: bold;
+}
+.cl{
+color: #000;
+font-weight: 100;
+font-size: small;
+}
+.hd{
+text-align: center;
+font-size: 50px;
+font-weight: bold;
+text-decoration:dotted ;
+}
+.bd{
+    margin: 10px 10px;
+border:5px dotted rgb(8, 8, 24);
+padding: 12px 12px;
+}
